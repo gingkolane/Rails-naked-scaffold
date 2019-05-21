@@ -1,6 +1,7 @@
 Rails generate scaffold by default create many files one may not need, this is a simple script to disable most options and keep only the MCV framework. 
 
 Options disabled: 
+```
 # --no-helper      # don't generate helper
 # --no-jbuilder  # don't generate jbuilder
 # --no-api                   # don't generate api
@@ -21,7 +22,7 @@ Files created:
       create      app/views/guitars/show.html.erb
       create      app/views/guitars/new.html.erb
       create      app/views/guitars/_form.html.erb
-
+```
 
 How to install: 
 
