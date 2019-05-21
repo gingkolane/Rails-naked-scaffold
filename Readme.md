@@ -53,4 +53,4 @@ Instructions on how to write custom bash script with input variable
 http://omgenomics.com/writing-bash-script/
 
 Credit:
-Daniel Fries and [Kevin McAlear](https://github.com/kevinmcalear) helped me with this script.  
+[Daniel Fries](https://github.com/dwfig) and [Kevin McAlear](https://github.com/kevinmcalear) helped me with this script.  
