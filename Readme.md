@@ -28,21 +28,21 @@ How to install:
 
 1. create /bin under your home directory to keep custom scriptm, example in MacOS: Users/Chloe/bin
 
-mkdir bin 
+`mkdir bin` 
 
 2. put script under bin
 
-Users/Chloe/bin/rails naked_scaffold.sh
+`Users/Chloe/bin/rails naked_scaffold.sh`
 
 3. make the script executable
 
-chmod +x rails_naked_scaffold.sh
+`chmod +x rails_naked_scaffold.sh`
 
 How to run: 
 
 In your rails project folder, do below. As in: rails_naked_scaffold.sh guitar
 
-rails_naked_scaffold.sh modelname
+`rails_naked_scaffold.sh modelname`
 
 
 Reference: 
@@ -53,4 +53,4 @@ Instructions on how to write custom bash script with input variable
 http://omgenomics.com/writing-bash-script/
 
 Credit:
-Daniel Fries and Kevin xx helped me with this script.  
+Daniel Fries and [Kevin McAlear](https://github.com/kevinmcalear) helped me with this script.  
